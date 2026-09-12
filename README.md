@@ -1,16 +1,20 @@
-## Hi there 👋
+# Farzin Pezeshkimehr
 
-<!--
-**Farzinpm/Farzinpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automotive Engineer (M.Eng.) | E/E Integration · ADAS · Functional Safety**
 
-Here are some ideas to get you started:
+Working on E/E systems integration, ECU validation, and ADAS safety simulation.
+Background: vehicle-level integration and test-bench validation (CAN, CAN-FD, LIN,
+Automotive Ethernet) plus scenario-based simulation of sensor failure and
+fail-safe strategies for autonomous driving functions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | Description |
+|---|---|
+| [Sensor Failure Safety Simulation](https://github.com/Farzinpm/REPO-NAME) | Master's thesis: radar failure & LiDAR/camera redundancy under Level 5 autonomous driving conditions |
+| [ADAS Lane Keeping Assist](https://github.com/Farzinpm/REPO-NAME) | Computer-vision LKA prototype (Canny, ROI, Hough Transform) |
+| [Radar Perception & Tracking](https://github.com/Farzinpm/REPO-NAME) | ROS-based radar perception with Kalman filtering |
+
+## Connect
+
+[LinkedIn](www.linkedin.com/in/farzin-pezeshkimehr) · [CV](link if you host it)
