@@ -17,4 +17,4 @@ fail-safe strategies for autonomous driving functions.
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/farzin-pezeshkimehr)
+(www.linkedin.com/in/farzin-pezeshkimehr)
